@@ -19,6 +19,8 @@ nav {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4); /* Deep shadow */
     border-bottom: 2px solid #64ffda; /* Bright Cyan border */
     padding: 0 20px;
+    position: fixed;
+
 }
 
 nav ul {
